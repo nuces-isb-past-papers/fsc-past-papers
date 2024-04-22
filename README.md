@@ -39,4 +39,4 @@ Your Pull Request, once accepted, is closed, which completes your contribution. 
 
 If you wish to help us manage these repositories and others' contributions, you can do so by joining this Github Organization.
 
-Please contact i200442@nu.edu.pk for joining organization.
+Please contact i200442@nu.edu.pk or i210343@nu.edu.pk for joining the organization.
