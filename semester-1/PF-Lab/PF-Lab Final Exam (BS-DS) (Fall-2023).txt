@@ -1,0 +1,81 @@
+
+									FINAL EXAM (BS DS 2023) (FAST ISB)
+										PF LAB
+************************************************************************************************************************************************************************************************************************************************************************************
+
+QUESTION 1(A):
+Create a c++ program that prompts the user to enter a string s. Copy this input string into another string t. Afterwards, append randomly generated characters to t to ensure its length is one character longer than s. Utilize ASCII values to generate these additional characters.
+
+Example:
+input : abcd
+output: abcde
+explaination: e is the newly added character
+
+
+************************************************************************************************************************************************************************************************************************************************************************************
+
+
+QUESTION 1(B):
+"Write a c++ program that determines the length of the longest substring without repeating characters within a given string."
+
+Here are the examples:
+
+Example 1:
+Input: "abcabcbb"
+Output: 3
+Explanation: The longest substring without repeating characters is "abc", with a length of 3.
+
+Example 2:
+Input: " "
+Output: 1
+Explanation: The only character, " ", is a substring without repeating characters, with a length of 1.
+
+
+************************************************************************************************************************************************************************************************************************************************************************************
+
+
+QUESTION 2(A):
+Given a 3x3 matrix in C++ (a 2D array), generate a sequence by reading its elements row by row, starting from the top-left corner and ending at the bottom-right corner. Then, create a C++ program that takes this matrix as input and generates the sequence
+
+
+Input matrix:
+1 2 3
+4 5 6
+7 8 9
+
+Output sequence: 124753689
+
+************************************************************************************************************************************************************************************************************************************************************************************
+
+QUESTION 2(B):
+Create a C++ program that checks whether a given matrix is a Toeplitz matrix. A Toeplitz matrix is defined as a diagonal-constant matrix, where all elements along a diagonal have the same value. If the matrix does not satisfy this condition, the program should return false
+
+sample 
+
+Matrix:
+1 2 3 4
+5 1 2 3
+9 5 1 2
+
+output: Matrix is a Toeplitz
+
+**********************************************************************************************************************************************************************************************************************************************************************************
+
+
+QUESTION 3(A):
+Write a C++ program that swaps two numbers without using a third variable. You should utilize pointers and create a function named swap to perform the swapping operation. After swapping, display the updated numbers in the main function.
+
+
+************************************************************************************************************************************************************************************************************************************************************************************
+
+
+QUESTION 3(B)
+"Develop a C++ program that includes functions to encrypt and decrypt an array of integers. Implement an  Encrypt(int*arr, int size)  function that takes an integer array and its size as parameters for encryption and a Decrypt(int*arr, int size) function for decryption. 
+Note: use pointers and functions
+Sample 
+
+arr[5]={10,20,30,40,50}
+encrypted array={80,160,240,320,400}
+decrypted array={10,20,30,40,50}
+
+************************************************************************************************************************************************************************************************************************************************************************************
