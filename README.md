@@ -5,6 +5,7 @@
 - Tree: Semester > Course > Department
 
 You may search for the subject/course you want past papers for
+![image](https://github.com/nuces-isb-past-papers/fsc-past-papers/assets/116589481/a93157bc-fd90-43b6-bb6e-167e0d35c7c1)
 
 If there is no folder for your course present, it means no one has added past papers for that course yet. You may open an issue in this repository to request for them to be added
 
