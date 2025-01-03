@@ -16,7 +16,7 @@ To contribute: Make a fork of this repository (on PC browser)
 
 ![image](https://github.com/nuces-isb-past-papers/fsc-past-papers/assets/88581241/09a28b43-1f9c-4037-9ecb-dff3ad324cc0)
 
-Go to relevant location in your repository
+Go to relevant location in your repository. Rename the past past paper file as `Subject Sessional#/Final (Fall/Summer/Spring-20XX).pdf` i.e. `NLP Sessional-I (Fall-2023).pdf`
 
 Then upload your file or folder there:
 
